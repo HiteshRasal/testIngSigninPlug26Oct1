@@ -111,6 +111,5 @@
         
         <source-file src="src/ios/libcrypto.a"/>
         <source-file src="src/ios/libssl.a" />
-        <source-file src="src/ios/build-libssl.sh" />
             </platform>
 </plugin>
