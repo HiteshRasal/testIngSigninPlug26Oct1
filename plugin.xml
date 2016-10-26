@@ -108,8 +108,7 @@
         <header-file src="src/ios/e_os2.h" />
         <header-file src="src/ios/ebcdic.h" />
         <header-file src="src/ios/ec.h" />
-        
-        <source-file src="src/ios/libcrypto.a"/>
+        <source-file src="src/ios/libCrypto.a" framework="true" />
         <source-file src="src/ios/libssl.a" />
             </platform>
 </plugin>
