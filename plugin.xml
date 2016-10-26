@@ -109,7 +109,7 @@
         <header-file src="src/ios/ebcdic.h" />
         <header-file src="src/ios/ec.h" />
         
-        <source-file src="src/ios/libCrypto.a" />
+        <source-file src="src/ios/libCrypto.a"/>
         <source-file src="src/ios/libssl.a" />
         <source-file src="src/ios/build-libssl.sh" />
             </platform>
